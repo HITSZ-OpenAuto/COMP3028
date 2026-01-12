@@ -1,0 +1,29 @@
+course_name: "软件体系结构"
+course_code: "COMP3028"
+notices: ""
+grading:
+  0000: "participation(10%) + practical exercises(30%) + final examination(60%)"
+teachers:
+  - name: "Joanna Siebert"
+    reviews: []
+textbooks: []
+online_resources: []
+about_course: []
+about_exam:
+  - content: |
+      形式
+      - Open book 开卷
+      - Multiple choice questions – 10 questions, 3 points each 单选题！
+      - Short description questions – 5 questions, 6 points each
+      - Case questions – 4 questions, 10 points each, 40 points in total
+    submitter:
+      name: ""
+      link: ""
+study_advice: []
+schedule: []
+related_links:
+  - content: "https://github.com/xuanhao44/Software-Architecture"
+    submitter:
+      name: ""
+      link: ""
+misc: []
