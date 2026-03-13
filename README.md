@@ -9,6 +9,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - Joanna Siebert
 
 ## 关于考试

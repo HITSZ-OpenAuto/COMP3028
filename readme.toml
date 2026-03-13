@@ -1,12 +1,11 @@
 course_name = "软件体系结构"
-repo_type = "normal"
 course_code = "COMP3028"
+repo_type = "normal"
 
-description = ""
+[lecturers]
 
-[[lecturers]]
+[[lecturers.items]]
 name = "Joanna Siebert"
-
 
 [[sections]]
 title = "关于考试"
