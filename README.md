@@ -1,11 +1,5 @@
 # COMP3028 - 软件体系结构
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![Participation10%](https://img.shields.io/badge/Participation-10%25-wheat)
-![Practicalexercises30%](https://img.shields.io/badge/Practicalexercises-30%25-wheat)
-![Finalexamination60%](https://img.shields.io/badge/Finalexamination-60%25-wheat)
 
 ## 授课教师
 
